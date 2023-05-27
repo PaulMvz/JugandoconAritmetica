@@ -26,6 +26,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sonidos","folderPath":"folders/Sonidos.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"FondoInicio","folderPath":"folders/Sprites/FondoInicio.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"FondoInicioCategoriaJuego","folderPath":"folders/Sprites/FondoInicioCategoriaJuego.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
