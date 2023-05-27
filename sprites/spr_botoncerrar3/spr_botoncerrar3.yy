@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "obj_boton",
-  "bbox_bottom": 49,
+  "name": "spr_botoncerrar3",
+  "bbox_bottom": 119,
   "bbox_left": 0,
-  "bbox_right": 99,
+  "bbox_right": 299,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"50ff2ada-d546-4041-87c2-e254db31df99",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ee779bf6-4ea7-4c27-bf86-2c74e3660bc7",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 50,
+  "height": 120,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b06b133b-a8cd-4c0e-99ac-dd77db1b3335","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"10dc5c12-f0fe-4571-952f-50e9a24d6c5f","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "obj_boton",
+    "name": "spr_botoncerrar3",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"50ff2ada-d546-4041-87c2-e254db31df99","path":"sprites/obj_boton/obj_boton.yy",},},},"Disabled":false,"id":"2b6c63e7-66be-4d0d-a3d6-f99102743f7e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ee779bf6-4ea7-4c27-bf86-2c74e3660bc7","path":"sprites/spr_botoncerrar3/spr_botoncerrar3.yy",},},},"Disabled":false,"id":"8ba18d7f-c5be-491d-8163-554982d21419","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 100,
+  "width": 300,
 }

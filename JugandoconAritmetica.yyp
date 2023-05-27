@@ -34,8 +34,13 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"Ob_botonsalir","path":"objects/Ob_botonsalir/Ob_botonsalir.yy",},},
+    {"id":{"name":"spr_botonplay1","path":"sprites/spr_botonplay1/spr_botonplay1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
-    {"id":{"name":"obj_boton","path":"sprites/obj_boton/obj_boton.yy",},},
+    {"id":{"name":"Obj_botonplay","path":"objects/Obj_botonplay/Obj_botonplay.yy",},},
+    {"id":{"name":"Obj_botonajuste","path":"objects/Obj_botonajuste/Obj_botonajuste.yy",},},
+    {"id":{"name":"spr_botoncerrar3","path":"sprites/spr_botoncerrar3/spr_botoncerrar3.yy",},},
+    {"id":{"name":"spr_botonajuste2","path":"sprites/spr_botonajuste2/spr_botonajuste2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
