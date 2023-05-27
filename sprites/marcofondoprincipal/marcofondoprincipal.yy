@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Fondo_menuprincipal",
-  "bbox_bottom": 1079,
+  "name": "marcofondoprincipal",
+  "bbox_bottom": 767,
   "bbox_left": 0,
-  "bbox_right": 1919,
-  "bbox_top": 0,
+  "bbox_right": 767,
+  "bbox_top": 46,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e3e86766-d6a7-440e-ae85-8e015d1c3d2c",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"60b717f8-b798-4333-908f-6bd466beaca5",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 1080,
+  "height": 768,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f6d1fbfa-c89b-4632-957f-17559227c3a6","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ad2a99c5-f0b0-4692-b57b-9b76d7d5969a","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Fondo_menuprincipal",
+    "name": "marcofondoprincipal",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e3e86766-d6a7-440e-ae85-8e015d1c3d2c","path":"sprites/Fondo_menuprincipal/Fondo_menuprincipal.yy",},},},"Disabled":false,"id":"cf17cf10-f765-4076-a80f-4d14492f426a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"60b717f8-b798-4333-908f-6bd466beaca5","path":"sprites/marcofondoprincipal/marcofondoprincipal.yy",},},},"Disabled":false,"id":"7bdc852b-8631-4f46-b015-ab678657d958","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1920,
+  "width": 768,
 }

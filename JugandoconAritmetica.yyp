@@ -44,6 +44,7 @@
     {"id":{"name":"spr_botonplay11","path":"sprites/spr_botonplay11/spr_botonplay11.yy",},},
     {"id":{"name":"spr_botoncerrar3","path":"sprites/spr_botoncerrar3/spr_botoncerrar3.yy",},},
     {"id":{"name":"spr_botonajuste2","path":"sprites/spr_botonajuste2/spr_botonajuste2.yy",},},
+    {"id":{"name":"marcofondoprincipal","path":"sprites/marcofondoprincipal/marcofondoprincipal.yy",},},
     {"id":{"name":"spr_botonplay12","path":"sprites/spr_botonplay12/spr_botonplay12.yy",},},
     {"id":{"name":"spr_botonregresar","path":"sprites/spr_botonregresar/spr_botonregresar.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

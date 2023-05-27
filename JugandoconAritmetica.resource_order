@@ -25,6 +25,7 @@
     {"name":"spr_botonplay11","order":4,"path":"sprites/spr_botonplay11/spr_botonplay11.yy",},
     {"name":"spr_botoncerrar3","order":2,"path":"sprites/spr_botoncerrar3/spr_botoncerrar3.yy",},
     {"name":"spr_botonajuste2","order":1,"path":"sprites/spr_botonajuste2/spr_botonajuste2.yy",},
+    {"name":"marcofondoprincipal","order":7,"path":"sprites/marcofondoprincipal/marcofondoprincipal.yy",},
     {"name":"spr_botonplay12","order":5,"path":"sprites/spr_botonplay12/spr_botonplay12.yy",},
     {"name":"spr_botonregresar","order":3,"path":"sprites/spr_botonregresar/spr_botonregresar.yy",},
   ],
