@@ -17,10 +17,15 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Obj_botonreturn","order":3,"path":"objects/Obj_botonreturn/Obj_botonreturn.yy",},
     {"name":"Ob_botonsalir","order":2,"path":"objects/Ob_botonsalir/Ob_botonsalir.yy",},
+    {"name":"Fondo_menuprincipal","order":6,"path":"sprites/Fondo_menuprincipal/Fondo_menuprincipal.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Obj_botonajuste","order":1,"path":"objects/Obj_botonajuste/Obj_botonajuste.yy",},
+    {"name":"spr_botonplay11","order":4,"path":"sprites/spr_botonplay11/spr_botonplay11.yy",},
     {"name":"spr_botoncerrar3","order":2,"path":"sprites/spr_botoncerrar3/spr_botoncerrar3.yy",},
     {"name":"spr_botonajuste2","order":1,"path":"sprites/spr_botonajuste2/spr_botonajuste2.yy",},
+    {"name":"spr_botonplay12","order":5,"path":"sprites/spr_botonplay12/spr_botonplay12.yy",},
+    {"name":"spr_botonregresar","order":3,"path":"sprites/spr_botonregresar/spr_botonregresar.yy",},
   ],
 }

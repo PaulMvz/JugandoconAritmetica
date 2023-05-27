@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_botonplay1",
-    "path": "sprites/spr_botonplay1/spr_botonplay1.yy",
+    "name": "spr_botonajuste2",
+    "path": "sprites/spr_botonajuste2/spr_botonajuste2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

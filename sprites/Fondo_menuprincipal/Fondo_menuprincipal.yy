@@ -1,26 +1,26 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_botonajuste2",
-  "bbox_bottom": 119,
+  "name": "Fondo_menuprincipal",
+  "bbox_bottom": 767,
   "bbox_left": 0,
-  "bbox_right": 299,
+  "bbox_right": 767,
   "bbox_top": 0,
-  "bboxMode": 2,
+  "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
   "DynamicTexturePage": false,
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fee1749e-658f-467f-a33a-fde0135aaff5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"51e32e9c-0710-465a-bb22-05e40daf92da",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 120,
+  "height": 768,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ae71d105-ea15-4126-98f1-818821a9c593","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b385e1d1-a01a-4dd3-b4c0-77e8b3109bde","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_botonajuste2",
+    "name": "Fondo_menuprincipal",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fee1749e-658f-467f-a33a-fde0135aaff5","path":"sprites/spr_botonajuste2/spr_botonajuste2.yy",},},},"Disabled":false,"id":"0c2aba49-9b97-40b5-8714-a39cb62af8cb","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"51e32e9c-0710-465a-bb22-05e40daf92da","path":"sprites/Fondo_menuprincipal/Fondo_menuprincipal.yy",},},},"Disabled":false,"id":"9a564964-8158-47a3-b6d5-813470cb4373","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 300,
+  "width": 768,
 }

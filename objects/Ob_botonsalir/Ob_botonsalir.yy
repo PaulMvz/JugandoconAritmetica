@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_botonajuste2",
-    "path": "sprites/spr_botonajuste2/spr_botonajuste2.yy",
+    "name": "spr_botoncerrar3",
+    "path": "sprites/spr_botoncerrar3/spr_botoncerrar3.yy",
   },
   "spriteMaskId": null,
   "visible": true,
