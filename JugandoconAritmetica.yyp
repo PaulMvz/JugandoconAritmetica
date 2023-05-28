@@ -40,9 +40,12 @@
   },
   "resources": [
     {"id":{"name":"Obj_botonreturn","path":"objects/Obj_botonreturn/Obj_botonreturn.yy",},},
+    {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},},
     {"id":{"name":"spr_boton","path":"sprites/spr_boton/spr_boton.yy",},},
+    {"id":{"name":"sndfondo","path":"sounds/sndfondo/sndfondo.yy",},},
     {"id":{"name":"Fondo_menuprincipal","path":"sprites/Fondo_menuprincipal/Fondo_menuprincipal.yy",},},
     {"id":{"name":"Room_ajuste","path":"rooms/Room_ajuste/Room_ajuste.yy",},},
+    {"id":{"name":"musicafondo","path":"objects/musicafondo/musicafondo.yy",},},
     {"id":{"name":"Room_jugarcategoria","path":"rooms/Room_jugarcategoria/Room_jugarcategoria.yy",},},
     {"id":{"name":"spr_aniroomprin","path":"sprites/spr_aniroomprin/spr_aniroomprin.yy",},},
     {"id":{"name":"Obj_boton","path":"objects/Obj_boton/Obj_boton.yy",},},

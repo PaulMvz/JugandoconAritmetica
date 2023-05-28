@@ -22,8 +22,10 @@
     {"name":"anim_salas","order":5,"path":"folders/Salas/anim_salas.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_logo","order":5,"path":"sprites/spr_logo/spr_logo.yy",},
     {"name":"spr_boton","order":4,"path":"sprites/spr_boton/spr_boton.yy",},
     {"name":"Room_ajuste","order":2,"path":"rooms/Room_ajuste/Room_ajuste.yy",},
+    {"name":"musicafondo","order":6,"path":"objects/musicafondo/musicafondo.yy",},
     {"name":"Room_jugarcategoria","order":1,"path":"rooms/Room_jugarcategoria/Room_jugarcategoria.yy",},
     {"name":"Room_partidainiciada","order":3,"path":"rooms/Room_partidainiciada/Room_partidainiciada.yy",},
     {"name":"marcofondoprincipal","order":1,"path":"sprites/marcofondoprincipal/marcofondoprincipal.yy",},

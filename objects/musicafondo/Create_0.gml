@@ -1,6 +1,3 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-sprite_index = spr_boton;
-image_speed = 0;
-image_index = 0;
-presionar = false;
+audio_play_sound(sndfondo,10,true);
