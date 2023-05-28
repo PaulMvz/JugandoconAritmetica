@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "Objeto_RoomJugarcategoria",
+    "path": "folders/Objetos/Objeto_RoomJugarcategoria.yy",
   },
   "parentObjectId": null,
   "persistent": false,
