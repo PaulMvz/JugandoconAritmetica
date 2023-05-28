@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "FondoInicio",
-    "path": "folders/Sprites/FondoInicio.yy",
+    "name": "FondoInicioCategoriaJuego",
+    "path": "folders/Sprites/FondoInicioCategoriaJuego.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
