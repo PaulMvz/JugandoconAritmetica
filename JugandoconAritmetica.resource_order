@@ -7,6 +7,8 @@
     {"name":"Líneas temporales","order":8,"path":"folders/Líneas temporales.yy",},
     {"name":"Notas","order":13,"path":"folders/Notas.yy",},
     {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
+    {"name":"Objeto_RoomJugarcategoria","order":5,"path":"folders/Objetos/Objeto_RoomJugarcategoria.yy",},
+    {"name":"Objeto_RoomPrincipal","order":4,"path":"folders/Objetos/Objeto_RoomPrincipal.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
     {"name":"Rutas","order":4,"path":"folders/Rutas.yy",},
     {"name":"Salas","order":10,"path":"folders/Salas.yy",},
@@ -17,8 +19,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"FondoInicio","order":8,"path":"folders/Sprites/FondoInicio.yy",},
     {"name":"FondoInicioCategoriaJuego","order":9,"path":"folders/Sprites/FondoInicioCategoriaJuego.yy",},
-    {"name":"Objeto_RoomPrincipal","order":4,"path":"folders/Objetos/Objeto_RoomPrincipal.yy",},
-    {"name":"Objeto_RoomJugarcategoria","order":5,"path":"folders/Objetos/Objeto_RoomJugarcategoria.yy",},
+    {"name":"anim_salas","order":5,"path":"folders/Salas/anim_salas.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_boton","order":4,"path":"sprites/spr_boton/spr_boton.yy",},
