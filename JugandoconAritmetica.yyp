@@ -41,6 +41,7 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"spr_numdato","path":"sprites/spr_numdato/spr_numdato.yy",},},
     {"id":{"name":"spr_botonopciones","path":"sprites/spr_botonopciones/spr_botonopciones.yy",},},
     {"id":{"name":"fondo","path":"sprites/fondo/fondo.yy",},},
     {"id":{"name":"Obj_botonreturn","path":"objects/Obj_botonreturn/Obj_botonreturn.yy",},},

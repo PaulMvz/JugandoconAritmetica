@@ -24,6 +24,7 @@
     {"name":"Fondopartidaoperaciones","order":10,"path":"folders/Sprites/Fondopartidaoperaciones.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_numdato","order":2,"path":"sprites/spr_numdato/spr_numdato.yy",},
     {"name":"fondo","order":1,"path":"sprites/fondo/fondo.yy",},
     {"name":"spr_logo","order":5,"path":"sprites/spr_logo/spr_logo.yy",},
     {"name":"spr_boton","order":4,"path":"sprites/spr_boton/spr_boton.yy",},
