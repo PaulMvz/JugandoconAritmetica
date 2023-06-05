@@ -22,8 +22,10 @@
     {"name":"FondoInicio","order":8,"path":"folders/Sprites/FondoInicio.yy",},
     {"name":"FondoInicioCategoriaJuego","order":9,"path":"folders/Sprites/FondoInicioCategoriaJuego.yy",},
     {"name":"Fondopartidaoperaciones","order":10,"path":"folders/Sprites/Fondopartidaoperaciones.yy",},
+    {"name":"Sprites signos","order":11,"path":"folders/Sprites/Sprites signos.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_igual","order":4,"path":"sprites/spr_igual/spr_igual.yy",},
     {"name":"spr_numdato","order":2,"path":"sprites/spr_numdato/spr_numdato.yy",},
     {"name":"fondo","order":1,"path":"sprites/fondo/fondo.yy",},
     {"name":"spr_background","order":2,"path":"sprites/spr_background/spr_background.yy",},
@@ -37,6 +39,10 @@
     {"name":"Room_partidasuma","order":3,"path":"rooms/Room_partidasuma/Room_partidasuma.yy",},
     {"name":"marcofondoprincipal","order":1,"path":"sprites/marcofondoprincipal/marcofondoprincipal.yy",},
     {"name":"spr_botoncategoria","order":1,"path":"sprites/spr_botoncategoria/spr_botoncategoria.yy",},
+    {"name":"spr_division","order":3,"path":"sprites/spr_division/spr_division.yy",},
+    {"name":"spr_multiplicacion","order":2,"path":"sprites/spr_multiplicacion/spr_multiplicacion.yy",},
     {"name":"Obj_botoncategoria","order":1,"path":"objects/Obj_botoncategoria/Obj_botoncategoria.yy",},
+    {"name":"spr_resta","order":1,"path":"sprites/spr_resta/spr_resta.yy",},
+    {"name":"Obj_result","order":3,"path":"objects/Obj_result/Obj_result.yy",},
   ],
 }

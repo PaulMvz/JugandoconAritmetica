@@ -1,2 +1,2 @@
-nume2 = random_range(1,10);
-str_nume2 = string(nume2);
+nume2 = irandom_range(1,10);
+strnume2 = string(nume2);
