@@ -34,6 +34,7 @@
     {"name":"Obj_num2","order":1,"path":"objects/Obj_num2/Obj_num2.yy",},
     {"name":"Obj_botonresult","order":2,"path":"objects/Obj_botonresult/Obj_botonresult.yy",},
     {"name":"Room_ajuste","order":2,"path":"rooms/Room_ajuste/Room_ajuste.yy",},
+    {"name":"spr_estrella","order":3,"path":"sprites/spr_estrella/spr_estrella.yy",},
     {"name":"musicafondo","order":6,"path":"objects/musicafondo/musicafondo.yy",},
     {"name":"Room_jugarcategoria","order":1,"path":"rooms/Room_jugarcategoria/Room_jugarcategoria.yy",},
     {"name":"Room_partidasuma","order":3,"path":"rooms/Room_partidasuma/Room_partidasuma.yy",},
@@ -43,6 +44,7 @@
     {"name":"spr_multiplicacion","order":2,"path":"sprites/spr_multiplicacion/spr_multiplicacion.yy",},
     {"name":"Obj_botoncategoria","order":1,"path":"objects/Obj_botoncategoria/Obj_botoncategoria.yy",},
     {"name":"spr_resta","order":1,"path":"sprites/spr_resta/spr_resta.yy",},
+    {"name":"Obj_operacion","order":4,"path":"objects/Obj_operacion/Obj_operacion.yy",},
     {"name":"Obj_result","order":3,"path":"objects/Obj_result/Obj_result.yy",},
   ],
 }
