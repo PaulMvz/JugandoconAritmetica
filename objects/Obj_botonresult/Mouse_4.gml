@@ -1,4 +1,4 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-image_index = 0;
-presionar = false;
+image_index = 2;
+presionar = true;
