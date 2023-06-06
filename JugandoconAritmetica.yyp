@@ -71,7 +71,6 @@
     {"id":{"name":"Obj_botoncategoria","path":"objects/Obj_botoncategoria/Obj_botoncategoria.yy",},},
     {"id":{"name":"spr_botonregresar","path":"sprites/spr_botonregresar/spr_botonregresar.yy",},},
     {"id":{"name":"spr_resta","path":"sprites/spr_resta/spr_resta.yy",},},
-    {"id":{"name":"Obj_operacion","path":"objects/Obj_operacion/Obj_operacion.yy",},},
     {"id":{"name":"Obj_result","path":"objects/Obj_result/Obj_result.yy",},},
     {"id":{"name":"Room_principal","path":"rooms/Room_principal/Room_principal.yy",},},
   ],

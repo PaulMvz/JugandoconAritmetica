@@ -1,5 +1,5 @@
 valoropt = "opcion2";
-valor = Obj_operacion;
+
 
 /*
 x1 = 864;
