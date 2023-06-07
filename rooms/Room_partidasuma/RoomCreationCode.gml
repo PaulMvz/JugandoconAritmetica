@@ -1,1 +1,2 @@
-global.hola = "hola";
+// Principal
+

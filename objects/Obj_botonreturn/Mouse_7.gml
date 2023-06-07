@@ -3,3 +3,6 @@
 if texto == "return" {
 	room_goto(Room_principal)	
 }
+if texto == "returnpartida" {
+	room_goto(Room_jugarcategoria)	
+}

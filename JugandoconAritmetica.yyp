@@ -56,6 +56,7 @@
     {"id":{"name":"Fondo_menuprincipal","path":"sprites/Fondo_menuprincipal/Fondo_menuprincipal.yy",},},
     {"id":{"name":"spr_suma","path":"sprites/spr_suma/spr_suma.yy",},},
     {"id":{"name":"Room_ajuste","path":"rooms/Room_ajuste/Room_ajuste.yy",},},
+    {"id":{"name":"Room_partidaresta","path":"rooms/Room_partidaresta/Room_partidaresta.yy",},},
     {"id":{"name":"spr_estrella","path":"sprites/spr_estrella/spr_estrella.yy",},},
     {"id":{"name":"musicafondo","path":"objects/musicafondo/musicafondo.yy",},},
     {"id":{"name":"Obj_num1","path":"objects/Obj_num1/Obj_num1.yy",},},
@@ -65,7 +66,6 @@
     {"id":{"name":"Room_partidasuma","path":"rooms/Room_partidasuma/Room_partidasuma.yy",},},
     {"id":{"name":"marcofondoprincipal","path":"sprites/marcofondoprincipal/marcofondoprincipal.yy",},},
     {"id":{"name":"spr_botoncategoria","path":"sprites/spr_botoncategoria/spr_botoncategoria.yy",},},
-    {"id":{"name":"Obj_estrella","path":"objects/Obj_estrella/Obj_estrella.yy",},},
     {"id":{"name":"fnt_texto","path":"fonts/fnt_texto/fnt_texto.yy",},},
     {"id":{"name":"spr_division","path":"sprites/spr_division/spr_division.yy",},},
     {"id":{"name":"spr_multiplicacion","path":"sprites/spr_multiplicacion/spr_multiplicacion.yy",},},
@@ -73,6 +73,7 @@
     {"id":{"name":"spr_botonregresar","path":"sprites/spr_botonregresar/spr_botonregresar.yy",},},
     {"id":{"name":"spr_resta","path":"sprites/spr_resta/spr_resta.yy",},},
     {"id":{"name":"Obj_result","path":"objects/Obj_result/Obj_result.yy",},},
+    {"id":{"name":"Obj_star","path":"objects/Obj_star/Obj_star.yy",},},
     {"id":{"name":"Room_principal","path":"rooms/Room_principal/Room_principal.yy",},},
   ],
   "RoomOrderNodes": [
@@ -80,6 +81,7 @@
     {"roomId":{"name":"Room_jugarcategoria","path":"rooms/Room_jugarcategoria/Room_jugarcategoria.yy",},},
     {"roomId":{"name":"Room_ajuste","path":"rooms/Room_ajuste/Room_ajuste.yy",},},
     {"roomId":{"name":"Room_partidasuma","path":"rooms/Room_partidasuma/Room_partidasuma.yy",},},
+    {"roomId":{"name":"Room_partidaresta","path":"rooms/Room_partidaresta/Room_partidaresta.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

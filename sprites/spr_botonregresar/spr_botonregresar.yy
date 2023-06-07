@@ -14,6 +14,8 @@
   "For3D": false,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"edd877c9-3711-4293-b0bd-b9d36d3a0fd3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"05648a4d-e2af-47e0-b28f-762b035d41fe",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e4f055f0-c2dc-45e5-898b-8dfea17d4449",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -43,7 +45,7 @@
     "events": {"resourceType":"KeyframeStore<MessageEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "eventStubScript": null,
     "eventToFunction": {},
-    "length": 1.0,
+    "length": 3.0,
     "lockOrigin": false,
     "moments": {"resourceType":"KeyframeStore<MomentsEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "playback": 1,
@@ -55,6 +57,8 @@
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"edd877c9-3711-4293-b0bd-b9d36d3a0fd3","path":"sprites/spr_botonregresar/spr_botonregresar.yy",},},},"Disabled":false,"id":"11e26fae-04b2-46a9-b6df-ab2908a77e99","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"05648a4d-e2af-47e0-b28f-762b035d41fe","path":"sprites/spr_botonregresar/spr_botonregresar.yy",},},},"Disabled":false,"id":"29919c83-4763-4628-83a1-577c63032c09","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e4f055f0-c2dc-45e5-898b-8dfea17d4449","path":"sprites/spr_botonregresar/spr_botonregresar.yy",},},},"Disabled":false,"id":"ced17755-0a39-4181-aa4d-ac9d27cacb34","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

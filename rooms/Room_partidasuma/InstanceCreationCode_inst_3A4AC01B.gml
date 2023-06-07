@@ -1,0 +1,1 @@
+punt_star = 1;

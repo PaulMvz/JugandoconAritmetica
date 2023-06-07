@@ -8,6 +8,7 @@ if valoropt == "opcion1"{
 if valoropt == "opcion2"{
 	show_message("Correcto");
 	cant_estrellas += 1;
+	show_debug_message(cant_estrellas);
 	room_goto(Room_partidasuma);
 }
 if valoropt == "opcion3"{

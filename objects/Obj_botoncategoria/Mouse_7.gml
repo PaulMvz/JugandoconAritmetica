@@ -4,7 +4,7 @@ if texto_categoria == "suma" {
 	room_goto(Room_partidasuma);
 }
 if texto_categoria == "resta"{
-	room_goto(Room_partidasuma);
+	room_goto(Room_partidaresta);
 }
 if texto_categoria == "multiplicacion"{
 	room_goto(Room_partidasuma);	

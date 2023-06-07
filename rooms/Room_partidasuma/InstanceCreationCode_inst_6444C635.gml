@@ -1,0 +1,1 @@
+textoresultado= "resultado_suma"
