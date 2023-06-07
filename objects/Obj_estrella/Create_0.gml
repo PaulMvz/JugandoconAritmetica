@@ -1,4 +1,6 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
+sprite_index = spr_estrella;
 image_index = 0;
-presionar = false;
+image_speed = 0;
+

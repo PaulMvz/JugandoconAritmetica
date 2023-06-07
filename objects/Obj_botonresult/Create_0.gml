@@ -3,6 +3,6 @@
 sprite_index = spr_botonopciones;
 image_speed = 0;
 image_index = 0;
-
+presionar = false;
 
 

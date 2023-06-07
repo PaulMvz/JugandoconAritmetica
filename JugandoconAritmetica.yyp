@@ -65,6 +65,7 @@
     {"id":{"name":"Room_partidasuma","path":"rooms/Room_partidasuma/Room_partidasuma.yy",},},
     {"id":{"name":"marcofondoprincipal","path":"sprites/marcofondoprincipal/marcofondoprincipal.yy",},},
     {"id":{"name":"spr_botoncategoria","path":"sprites/spr_botoncategoria/spr_botoncategoria.yy",},},
+    {"id":{"name":"Obj_estrella","path":"objects/Obj_estrella/Obj_estrella.yy",},},
     {"id":{"name":"fnt_texto","path":"fonts/fnt_texto/fnt_texto.yy",},},
     {"id":{"name":"spr_division","path":"sprites/spr_division/spr_division.yy",},},
     {"id":{"name":"spr_multiplicacion","path":"sprites/spr_multiplicacion/spr_multiplicacion.yy",},},
