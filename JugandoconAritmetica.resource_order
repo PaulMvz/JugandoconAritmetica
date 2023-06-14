@@ -33,6 +33,7 @@
     {"name":"spr_boton","order":4,"path":"sprites/spr_boton/spr_boton.yy",},
     {"name":"Obj_num2","order":1,"path":"objects/Obj_num2/Obj_num2.yy",},
     {"name":"Obj_botonresult","order":2,"path":"objects/Obj_botonresult/Obj_botonresult.yy",},
+    {"name":"Obj_main","order":8,"path":"objects/Obj_main/Obj_main.yy",},
     {"name":"Room_ajuste","order":2,"path":"rooms/Room_ajuste/Room_ajuste.yy",},
     {"name":"Room_partidaresta","order":6,"path":"rooms/Room_partidaresta/Room_partidaresta.yy",},
     {"name":"spr_estrella","order":3,"path":"sprites/spr_estrella/spr_estrella.yy",},

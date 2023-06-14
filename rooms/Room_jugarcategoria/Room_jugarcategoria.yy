@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "Room_jugarcategoria",
-  "creationCodeFile": "",
+  "creationCodeFile": "rooms/Room_jugarcategoria/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,

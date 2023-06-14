@@ -54,6 +54,7 @@
     {"id":{"name":"sndfondo","path":"sounds/sndfondo/sndfondo.yy",},},
     {"id":{"name":"Obj_botonresult","path":"objects/Obj_botonresult/Obj_botonresult.yy",},},
     {"id":{"name":"Fondo_menuprincipal","path":"sprites/Fondo_menuprincipal/Fondo_menuprincipal.yy",},},
+    {"id":{"name":"Obj_main","path":"objects/Obj_main/Obj_main.yy",},},
     {"id":{"name":"spr_suma","path":"sprites/spr_suma/spr_suma.yy",},},
     {"id":{"name":"Room_ajuste","path":"rooms/Room_ajuste/Room_ajuste.yy",},},
     {"id":{"name":"Room_partidaresta","path":"rooms/Room_partidaresta/Room_partidaresta.yy",},},
