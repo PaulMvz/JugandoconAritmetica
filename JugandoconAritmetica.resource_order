@@ -26,6 +26,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_igual","order":4,"path":"sprites/spr_igual/spr_igual.yy",},
+    {"name":"Room_partidamultiplicacion","order":7,"path":"rooms/Room_partidamultiplicacion/Room_partidamultiplicacion.yy",},
     {"name":"spr_numdato","order":2,"path":"sprites/spr_numdato/spr_numdato.yy",},
     {"name":"fondo","order":1,"path":"sprites/fondo/fondo.yy",},
     {"name":"spr_background","order":2,"path":"sprites/spr_background/spr_background.yy",},
@@ -35,6 +36,7 @@
     {"name":"Obj_botonresult","order":2,"path":"objects/Obj_botonresult/Obj_botonresult.yy",},
     {"name":"Obj_main","order":8,"path":"objects/Obj_main/Obj_main.yy",},
     {"name":"Room_ajuste","order":2,"path":"rooms/Room_ajuste/Room_ajuste.yy",},
+    {"name":"Room_partidadivision","order":8,"path":"rooms/Room_partidadivision/Room_partidadivision.yy",},
     {"name":"Room_partidaresta","order":6,"path":"rooms/Room_partidaresta/Room_partidaresta.yy",},
     {"name":"spr_estrella","order":3,"path":"sprites/spr_estrella/spr_estrella.yy",},
     {"name":"musicafondo","order":6,"path":"objects/musicafondo/musicafondo.yy",},
