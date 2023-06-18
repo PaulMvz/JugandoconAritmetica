@@ -9,8 +9,9 @@ global.subnivel = 0; //Indicara en que nivel de subnivel se encuentra o esta
 
 //Variables de numero para categoria de juego
 
-global.num1_suma = 0;
-global.num2_suma = 0;
+global.num1_suma = irandom_range(1,10);
+global.num2_suma = irandom_range(1,10);
+global.resultado_suma = irandom_range(1,10);
 
 global.num1_resta = irandom_range(1,10);
 global.num2_resta = irandom_range(1,10);

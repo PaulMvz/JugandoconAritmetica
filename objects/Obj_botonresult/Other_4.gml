@@ -3,7 +3,7 @@
 
 if valoropt == "opcion1"{
 	do{
-		valor = irandom_range(1,10);
+		valor = global.resultado_suma;
 	} until(valor != Obj_result.numresultado);
 }
 if valoropt == "opcion2"{
@@ -11,6 +11,7 @@ if valoropt == "opcion2"{
 }
 if valoropt == "opcion3"{
 	do{
-		valor = irandom_range(1,10);
+		valor = global.resultado_suma + irandom_range(5,20);
 	} until(valor != Obj_result.numresultado);
 }
+

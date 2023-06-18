@@ -1,6 +1,5 @@
 valoropt = "opcion3";
-valor = irandom_range(1,10);
-temp = valor;
+
 /*
 x1 = 864;
 y1 = 960;
