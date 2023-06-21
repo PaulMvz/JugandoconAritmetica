@@ -12,12 +12,10 @@ room_categoria = room_get_name(Room_jugarcategoria);
 
 if room_actual_name == room_suma{
 	global.subnivel = global.subnivel + 1; //Contador de nivel 
-	show_debug_message(global.subnivel);
 	if global.subnivel >= 0{
 		global.num1_suma = irandom_range(1,10);
 		global.num2_suma = irandom_range(1,10);
 		global.resultado_suma = irandom_range(1,20);
-		show_debug_message("Valor de num1",global.num1_suma);
 	}
 	if global.subnivel >= 5{
 		// Nivel Medio
