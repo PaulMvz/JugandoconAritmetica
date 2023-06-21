@@ -5,7 +5,7 @@ global.nivel = 0; // Recupera en que nivel se quedo el usuario
 global.usuario = "";
 global.nivelusuario = 0;
 global.subnivel = 0; //Indicara en que nivel de subnivel se encuentra o esta
-
+global.estrella = 0;
 
 //Variables de numero para categoria de juego
 
