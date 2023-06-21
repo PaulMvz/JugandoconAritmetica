@@ -33,7 +33,6 @@ if room_actual_name == room_suma{
 		global.resultado_suma = irandom_range(50,200);
 		show_debug_message("Nivel dificil de Suma")
 	}
-	show_debug_message("Estas en la sala suma");
 }
 else if room_actual_name == room_resta
 {
