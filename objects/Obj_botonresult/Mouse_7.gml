@@ -6,9 +6,8 @@ if valoropt == "opcion1"{
 }
 if valoropt == "opcion2"{
 	show_message("Correcto");
-	show_debug_message(global.estrella);
-	global.estrella =+ 1;
 	room_goto(Room_partidasuma);
+	global.verifestrella = true;
 }
 if valoropt == "opcion3"{
 	show_message("Incorrecto");

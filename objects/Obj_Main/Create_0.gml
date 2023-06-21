@@ -6,7 +6,7 @@ global.usuario = "";
 global.nivelusuario = 0;
 global.subnivel = 0; //Indicara en que nivel de subnivel se encuentra o esta
 global.estrella = 0;
-
+global.verifestrella = false;
 //Variables de numero para categoria de juego
 
 global.num1_suma = irandom_range(1,10);

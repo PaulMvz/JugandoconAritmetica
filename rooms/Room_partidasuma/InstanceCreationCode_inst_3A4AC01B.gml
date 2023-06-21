@@ -1,1 +1,1 @@
-punt_star = 1;
+punt_star = "estrella_uno";

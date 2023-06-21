@@ -9,6 +9,12 @@ room_multiplicacion = room_get_name(Room_partidamultiplicacion);
 room_division = room_get_name(Room_partidadivision);
 room_categoria = room_get_name(Room_jugarcategoria);
 
+//Verificar estrella
+if global.verifestrella == true {
+	global.estrella = global.estrella + 1;
+	show_debug_message("Verificar estrella")
+	show_debug_message(global.estrella);
+}
 
 if room_actual_name == room_suma{
 	global.subnivel = global.subnivel + 1; //Contador de nivel 
