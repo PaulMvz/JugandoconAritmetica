@@ -1,1 +1,0 @@
-textoresultado = "resultado_resta"
