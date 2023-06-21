@@ -1,6 +1,8 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
+sprite_index = spr_botonopciones;
 image_speed = 0;
-numresultado = global.num1_suma + global.num2_suma;
-strnumresultado = string(numresultado);
+image_index = 0;
+presionar = false;
+
 
