@@ -8,6 +8,7 @@
     {"name":"Notas","order":13,"path":"folders/Notas.yy",},
     {"name":"Objetos","order":9,"path":"folders/Objetos.yy",},
     {"name":"Objeto_partidaoperaciones","order":7,"path":"folders/Objetos/Objeto_partidaoperaciones.yy",},
+    {"name":"Objeto_partidaresta","order":9,"path":"folders/Objetos/Objeto_partidaresta.yy",},
     {"name":"Objeto_RoomJugarcategoria","order":5,"path":"folders/Objetos/Objeto_RoomJugarcategoria.yy",},
     {"name":"Objeto_RoomPrincipal","order":4,"path":"folders/Objetos/Objeto_RoomPrincipal.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
@@ -23,7 +24,6 @@
     {"name":"FondoInicioCategoriaJuego","order":9,"path":"folders/Sprites/FondoInicioCategoriaJuego.yy",},
     {"name":"Fondopartidaoperaciones","order":10,"path":"folders/Sprites/Fondopartidaoperaciones.yy",},
     {"name":"Sprites signos","order":11,"path":"folders/Sprites/Sprites signos.yy",},
-    {"name":"Objeto_partidaresta","order":9,"path":"folders/Objetos/Objeto_partidaresta.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_igual","order":4,"path":"sprites/spr_igual/spr_igual.yy",},
