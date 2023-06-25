@@ -1,0 +1,1 @@
+texto_resultado_resta = "resultado_resta";

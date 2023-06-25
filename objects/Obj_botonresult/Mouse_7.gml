@@ -26,5 +26,4 @@ if valoropt == "opcion3_resta"{
 	show_message("Incorrecto");
 }
 //Para sala multipliclación
-
 //Para sala división

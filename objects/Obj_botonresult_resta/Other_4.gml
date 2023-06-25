@@ -3,15 +3,15 @@
 
 //Para la sala suma
 
-if valoropt == "opcion1"{
+if valoropt_resta == "opcion1"{
 	do{
 		valor = global.resultado_suma;
 	} until(valor != Obj_result.numresultado);
 }
-if valoropt == "opcion2"{
+if valoropt_resta == "opcion2"{
 	valor = Obj_result.numresultado;
 }
-if valoropt == "opcion3"{
+if valoropt_resta == "opcion3"{
 	do{
 			valor = global.resultado_suma + irandom_range(5,20);
 	} until(valor != Obj_result.numresultado);

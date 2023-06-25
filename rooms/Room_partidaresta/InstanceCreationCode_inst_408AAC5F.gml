@@ -1,0 +1,1 @@
+valoropt_resta = "opcion3";

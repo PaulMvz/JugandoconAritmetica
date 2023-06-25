@@ -2,7 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "Room_partidamultiplicacion",
-  "creationCodeFile": "",
+  "creationCodeFile": "rooms/Room_partidamultiplicacion/RoomCreationCode.gml",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
