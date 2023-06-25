@@ -1,0 +1,1 @@
+strnume1_resta = string(global.num1_resta);
