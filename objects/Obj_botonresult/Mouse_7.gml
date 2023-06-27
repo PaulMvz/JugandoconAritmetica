@@ -6,9 +6,11 @@ if valoropt == "opcion1"{
 	show_message("Incorrecto");
 }
 if valoropt == "opcion2"{
+	object_set_visible(Obj_result, true);
 	show_message("Correcto");
 	room_goto(Room_partidasuma);
 	global.verifestrella = true;
+	
 }
 if valoropt == "opcion3"{
 	show_message("Incorrecto");

@@ -1,0 +1,1 @@
+punt_star_suma = "star3_suma"

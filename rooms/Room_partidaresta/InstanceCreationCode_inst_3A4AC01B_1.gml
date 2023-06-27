@@ -1,1 +1,1 @@
-punt_star = 1;
+punt_star_suma = "star1_suma";

@@ -1,0 +1,1 @@
+punt_star_suma = "star5_suma"

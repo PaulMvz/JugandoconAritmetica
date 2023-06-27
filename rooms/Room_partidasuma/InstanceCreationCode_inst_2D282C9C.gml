@@ -1,1 +1,0 @@
-punt_star = "estrella_tres";
